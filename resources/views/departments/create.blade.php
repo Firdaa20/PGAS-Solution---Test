@@ -16,7 +16,7 @@
             </h1>
 
             <p class="text-sm text-gray-500 mt-1">
-                Add a new department add
+                Add a new department 
             </p>
         </div>
 
